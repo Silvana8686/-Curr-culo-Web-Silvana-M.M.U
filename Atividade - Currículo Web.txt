@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+
+
+<html>
+
+
+	<head>
+
+		<title>Trabalho de Aula.01</title> 
+		<meta charset="UTF-8" />
+
+	</head>
+
+
+
+
+	
+	<body bgcolor="#eee">
+
+		<h1 align = center> <font color="#00f">Meu primeiro Curriculo Web </font> </h1>
+                <h2 <font color="#00f"> Silvana M. Maio Urbim  </font> </h2>
+                <h3 align = right >  <font color="#00f"> Silvana M. Maio Urbim  </font> </h3>
+  
+  
+		 <p> Dados Pessoais: <br/> </p> 
+
+		<ul>
+
+        <li> Endereco </li>
+	<li> Telefone </li>
+        <li> E-mail   </li>
+        <li> Idade    </li> 
+        	</ul>
+
+        	<p> Formacao Academica<br/> </p>
+
+        	<ol type="I" start="51">
+			<li>Ens. Fundamental</li>
+			<li>Ensino Medio </li>
+                        <li>Curso pacote office</li>            
+                 
+                        <li>Formacao
+                            <ul>
+                                <li>  Formacao tec Administracao de Empresas  </li> 
+                                <li>  Curso de Logica de programacao - Udemy</li> 
+                                <li>  Analise e Desenvolvimento de Sistmas - Em andamento / Fadergs </li> 
+                            </ul>
+                        </li>    	
+			
+		</ol> 
+        
+
+       		<p> Dados Complementares <br> </p>
+
+       		<ol>
+ 
+       
+       	<li> Emprego Estagio - PMPA </li>
+	<li> Emrego  Secretaria  </li>
+       	<li> Emprego Aux. Adm Estagio</li>
+
+       		</ol>
+
+                <div style="background:#7B68EE">Curso de Atendimento ao Cliente</div>
+		<div style="background:#7B68EE">Curso Pacote Office</div>
+		
+		<span style="background:#D2B48C">Aula01</span>
+		<span style="background:#B0E0E6">Aula02</span>
+		
+                <hr>
+		
+		<table border="1"> 
+			<tr>
+				<th>Lingugens</th>
+				<th>Niveis de Conhecimento</th>
+			</tr>
+			<tr>
+				<td>My Sql</td>
+				<td>Basico/td>
+			</tr>
+			<tr>
+				<td>C++</td>
+				<td>Basico</td>     
+			</tr>
+			<tr>
+				<td colspan="2">Linguagens de Programacao</td>
+			</tr>
+		
+		</table>
+		
+		<hr>
+                 
+                <img src=" https://www.guiaviagensbrasil.com/imagens/Imagem%20do%20mar%20calma%20e%20belo%20da%20Praia%20da%20Engenhoca-Itacar%C3%A9-Bahia-BA.jpg" width="50%" />
+
+	</body>
+
+</html>
